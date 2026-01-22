@@ -2,9 +2,9 @@
 Chas FFs devsecops labs
 
 ## Team
-- Marcus
+- Marcus 
+- Shayan
 
 
 ## Beskrivning
-Vi kommer att använda denna repo för våra labbar och uppgifter.
-Lära oss allt som behövs så som push, pull etc.
+Vi kommer att använda denna repo för våra labbar och uppgifter. Lära oss allt som behövs så som push, pull etc.
